@@ -1,6 +1,11 @@
 ### Olá! Eu sou Rafael Coelho.<br>
 Acredito que pela tecnologia posso impactar a vida das pessoas. Estou sempre em busca de desenvolvimento e novos
- desafios, procurando ficar atualizado sobre as novidades dessa área.
+desafios, procurando ficar atualizado sobre as novidades dessa área.
+
+![RafasCoelho GitHub stats](https://github-readme-stats.vercel.app/api?username=RafasCoelho&show_icons=true&theme=onedark)
+
+## Tecnologias que utilizo no meu cotidiano, tanto em projetos acadêmicos como em projetos pessoais.
+
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -10,6 +15,4 @@ Acredito que pela tecnologia posso impactar a vida das pessoas. Estou sempre em 
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![RafasCoelho GitHub stats](https://github-readme-stats.vercel.app/api?username=RafasCoelho&show_icons=true&theme=onedark)
 
