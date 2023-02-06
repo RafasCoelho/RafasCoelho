@@ -11,4 +11,5 @@ Acredito que pela tecnologia posso impactar a vida das pessoas. Estou sempre em 
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafasCoelho=compact)](https://github.com/RafasCoelho/github-readme-stats)
+![RafasCoelho GitHub stats](https://github-readme-stats.vercel.app/api?username=RafasCoelho&show_icons=true&theme=transparent)
+
